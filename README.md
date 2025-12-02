@@ -7,6 +7,7 @@ Collection of LeetCode questions. Solved in Python.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Chia-Rou-Huang/leetcode-solutions/tree/master/0001-two-sum) |
+| [0027-remove-element](https://github.com/Chia-Rou-Huang/leetcode-solutions/tree/master/0027-remove-element) |
 | [1920-build-array-from-permutation](https://github.com/Chia-Rou-Huang/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Chia-Rou-Huang/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 ## Hash Table
@@ -18,4 +19,8 @@ Collection of LeetCode questions. Solved in Python.
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/Chia-Rou-Huang/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Chia-Rou-Huang/leetcode-solutions/tree/master/1929-concatenation-of-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/Chia-Rou-Huang/leetcode-solutions/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
