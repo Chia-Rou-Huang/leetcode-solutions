@@ -1,6 +1,6 @@
 class Solution:
     def removeElement(self, nums: List[int], val: int) -> int:
-        k = 0  # 這負責寫入好數字的位置
+        k = 0  # 這負責寫入數字的位置
         
         # i開始檢查
         for i in range(len(nums)):
