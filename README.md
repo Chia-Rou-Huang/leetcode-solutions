@@ -25,4 +25,8 @@ Collection of LeetCode questions. Solved in Python.
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Chia-Rou-Huang/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Chia-Rou-Huang/leetcode-solutions/tree/master/0027-remove-element) |
+## String
+|  |
+| ------- |
+| [1108-defanging-an-ip-address](https://github.com/Chia-Rou-Huang/leetcode-solutions/tree/master/1108-defanging-an-ip-address) |
 <!---LeetCode Topics End-->
