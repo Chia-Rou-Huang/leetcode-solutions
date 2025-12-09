@@ -28,6 +28,11 @@ Collection of LeetCode questions. Solved in Python.
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Chia-Rou-Huang/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Chia-Rou-Huang/leetcode-solutions/tree/master/0058-length-of-last-word) |
 | [1108-defanging-an-ip-address](https://github.com/Chia-Rou-Huang/leetcode-solutions/tree/master/1108-defanging-an-ip-address) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Chia-Rou-Huang/leetcode-solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
