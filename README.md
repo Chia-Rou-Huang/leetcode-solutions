@@ -28,5 +28,6 @@ Collection of LeetCode questions. Solved in Python.
 ## String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/Chia-Rou-Huang/leetcode-solutions/tree/master/0058-length-of-last-word) |
 | [1108-defanging-an-ip-address](https://github.com/Chia-Rou-Huang/leetcode-solutions/tree/master/1108-defanging-an-ip-address) |
 <!---LeetCode Topics End-->
