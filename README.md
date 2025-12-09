@@ -16,6 +16,7 @@ Collection of LeetCode questions. Solved in Python.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Chia-Rou-Huang/leetcode-solutions/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/Chia-Rou-Huang/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/Chia-Rou-Huang/leetcode-solutions/tree/master/0217-contains-duplicate) |
 ## Simulation
 |  |
@@ -30,6 +31,7 @@ Collection of LeetCode questions. Solved in Python.
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Chia-Rou-Huang/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Chia-Rou-Huang/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Chia-Rou-Huang/leetcode-solutions/tree/master/0058-length-of-last-word) |
 | [1108-defanging-an-ip-address](https://github.com/Chia-Rou-Huang/leetcode-solutions/tree/master/1108-defanging-an-ip-address) |
@@ -41,4 +43,8 @@ Collection of LeetCode questions. Solved in Python.
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Chia-Rou-Huang/leetcode-solutions/tree/master/0217-contains-duplicate) |
+## Math
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/Chia-Rou-Huang/leetcode-solutions/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
