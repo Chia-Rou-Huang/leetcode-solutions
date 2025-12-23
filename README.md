@@ -9,6 +9,7 @@ Collection of LeetCode questions. Solved in Python.
 | [0001-two-sum](https://github.com/Chia-Rou-Huang/leetcode-solutions/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Chia-Rou-Huang/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Chia-Rou-Huang/leetcode-solutions/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/Chia-Rou-Huang/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Chia-Rou-Huang/leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Chia-Rou-Huang/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [1920-build-array-from-permutation](https://github.com/Chia-Rou-Huang/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
@@ -30,6 +31,7 @@ Collection of LeetCode questions. Solved in Python.
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Chia-Rou-Huang/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Chia-Rou-Huang/leetcode-solutions/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/Chia-Rou-Huang/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 ## String
 |  |
 | ------- |
@@ -44,6 +46,7 @@ Collection of LeetCode questions. Solved in Python.
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Chia-Rou-Huang/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Chia-Rou-Huang/leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Chia-Rou-Huang/leetcode-solutions/tree/master/0217-contains-duplicate) |
 ## Math
