@@ -24,6 +24,7 @@ Collection of LeetCode questions. Solved in Python.
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Chia-Rou-Huang/leetcode-solutions/tree/master/0067-add-binary) |
 | [1920-build-array-from-permutation](https://github.com/Chia-Rou-Huang/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Chia-Rou-Huang/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 ## Two Pointers
@@ -38,6 +39,7 @@ Collection of LeetCode questions. Solved in Python.
 | [0013-roman-to-integer](https://github.com/Chia-Rou-Huang/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Chia-Rou-Huang/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Chia-Rou-Huang/leetcode-solutions/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/Chia-Rou-Huang/leetcode-solutions/tree/master/0067-add-binary) |
 | [1108-defanging-an-ip-address](https://github.com/Chia-Rou-Huang/leetcode-solutions/tree/master/1108-defanging-an-ip-address) |
 ## Stack
 |  |
@@ -53,6 +55,7 @@ Collection of LeetCode questions. Solved in Python.
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Chia-Rou-Huang/leetcode-solutions/tree/master/0013-roman-to-integer) |
+| [0067-add-binary](https://github.com/Chia-Rou-Huang/leetcode-solutions/tree/master/0067-add-binary) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -61,4 +64,8 @@ Collection of LeetCode questions. Solved in Python.
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Chia-Rou-Huang/leetcode-solutions/tree/master/0169-majority-element) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Chia-Rou-Huang/leetcode-solutions/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
