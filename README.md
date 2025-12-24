@@ -61,6 +61,7 @@ Collection of LeetCode questions. Solved in Python.
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Chia-Rou-Huang/leetcode-solutions/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/Chia-Rou-Huang/leetcode-solutions/tree/master/0190-reverse-bits) |
 ## Counting
 |  |
 | ------- |
@@ -70,4 +71,5 @@ Collection of LeetCode questions. Solved in Python.
 | ------- |
 | [0067-add-binary](https://github.com/Chia-Rou-Huang/leetcode-solutions/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Chia-Rou-Huang/leetcode-solutions/tree/master/0136-single-number) |
+| [0190-reverse-bits](https://github.com/Chia-Rou-Huang/leetcode-solutions/tree/master/0190-reverse-bits) |
 <!---LeetCode Topics End-->
