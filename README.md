@@ -23,6 +23,7 @@ Collection of LeetCode questions. Solved in Python.
 | [0013-roman-to-integer](https://github.com/Chia-Rou-Huang/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/Chia-Rou-Huang/leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Chia-Rou-Huang/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0387-first-unique-character-in-a-string](https://github.com/Chia-Rou-Huang/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 ## Simulation
 |  |
 | ------- |
@@ -47,6 +48,7 @@ Collection of LeetCode questions. Solved in Python.
 | [0058-length-of-last-word](https://github.com/Chia-Rou-Huang/leetcode-solutions/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Chia-Rou-Huang/leetcode-solutions/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Chia-Rou-Huang/leetcode-solutions/tree/master/0125-valid-palindrome) |
+| [0387-first-unique-character-in-a-string](https://github.com/Chia-Rou-Huang/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1108-defanging-an-ip-address](https://github.com/Chia-Rou-Huang/leetcode-solutions/tree/master/1108-defanging-an-ip-address) |
 ## Stack
 |  |
@@ -73,6 +75,7 @@ Collection of LeetCode questions. Solved in Python.
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Chia-Rou-Huang/leetcode-solutions/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/Chia-Rou-Huang/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -116,4 +119,8 @@ Collection of LeetCode questions. Solved in Python.
 | [0100-same-tree](https://github.com/Chia-Rou-Huang/leetcode-solutions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Chia-Rou-Huang/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Chia-Rou-Huang/leetcode-solutions/tree/master/0226-invert-binary-tree) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Chia-Rou-Huang/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
