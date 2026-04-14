@@ -87,6 +87,7 @@ Collection of LeetCode questions. Solved in Python.
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Chia-Rou-Huang/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0231-power-of-two](https://github.com/Chia-Rou-Huang/leetcode-solutions/tree/master/0231-power-of-two) |
 ## Trie
 |  |
@@ -128,4 +129,8 @@ Collection of LeetCode questions. Solved in Python.
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Chia-Rou-Huang/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Chia-Rou-Huang/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
