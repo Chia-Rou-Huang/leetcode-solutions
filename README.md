@@ -10,6 +10,7 @@ Collection of LeetCode questions. Solved in Python.
 | [0014-longest-common-prefix](https://github.com/Chia-Rou-Huang/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Chia-Rou-Huang/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Chia-Rou-Huang/leetcode-solutions/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/Chia-Rou-Huang/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0088-merge-sorted-array](https://github.com/Chia-Rou-Huang/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Chia-Rou-Huang/leetcode-solutions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Chia-Rou-Huang/leetcode-solutions/tree/master/0169-majority-element) |
@@ -133,4 +134,8 @@ Collection of LeetCode questions. Solved in Python.
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Chia-Rou-Huang/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/Chia-Rou-Huang/leetcode-solutions/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
