@@ -69,6 +69,7 @@ Collection of LeetCode questions. Solved in Python.
 | [0013-roman-to-integer](https://github.com/Chia-Rou-Huang/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Chia-Rou-Huang/leetcode-solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Chia-Rou-Huang/leetcode-solutions/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/Chia-Rou-Huang/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/Chia-Rou-Huang/leetcode-solutions/tree/master/0231-power-of-two) |
 ## Divide and Conquer
 |  |
@@ -140,4 +141,5 @@ Collection of LeetCode questions. Solved in Python.
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Chia-Rou-Huang/leetcode-solutions/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/Chia-Rou-Huang/leetcode-solutions/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
