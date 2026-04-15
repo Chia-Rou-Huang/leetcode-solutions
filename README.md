@@ -70,6 +70,7 @@ Collection of LeetCode questions. Solved in Python.
 | [0066-plus-one](https://github.com/Chia-Rou-Huang/leetcode-solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Chia-Rou-Huang/leetcode-solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Chia-Rou-Huang/leetcode-solutions/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Chia-Rou-Huang/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/Chia-Rou-Huang/leetcode-solutions/tree/master/0231-power-of-two) |
 ## Divide and Conquer
 |  |
@@ -142,4 +143,12 @@ Collection of LeetCode questions. Solved in Python.
 | ------- |
 | [0035-search-insert-position](https://github.com/Chia-Rou-Huang/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Chia-Rou-Huang/leetcode-solutions/tree/master/0069-sqrtx) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Chia-Rou-Huang/leetcode-solutions/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Chia-Rou-Huang/leetcode-solutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
