@@ -56,6 +56,7 @@ Collection of LeetCode questions. Solved in Python.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Chia-Rou-Huang/leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/Chia-Rou-Huang/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 ## Sorting
 |  |
 | ------- |
@@ -105,6 +106,7 @@ Collection of LeetCode questions. Solved in Python.
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Chia-Rou-Huang/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Chia-Rou-Huang/leetcode-solutions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Chia-Rou-Huang/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Chia-Rou-Huang/leetcode-solutions/tree/master/0112-path-sum) |
@@ -112,6 +114,7 @@ Collection of LeetCode questions. Solved in Python.
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Chia-Rou-Huang/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Chia-Rou-Huang/leetcode-solutions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Chia-Rou-Huang/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Chia-Rou-Huang/leetcode-solutions/tree/master/0112-path-sum) |
@@ -126,6 +129,7 @@ Collection of LeetCode questions. Solved in Python.
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Chia-Rou-Huang/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Chia-Rou-Huang/leetcode-solutions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Chia-Rou-Huang/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Chia-Rou-Huang/leetcode-solutions/tree/master/0112-path-sum) |
