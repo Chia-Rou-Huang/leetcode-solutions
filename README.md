@@ -51,6 +51,7 @@ Collection of LeetCode questions. Solved in Python.
 | [0067-add-binary](https://github.com/Chia-Rou-Huang/leetcode-solutions/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Chia-Rou-Huang/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0387-first-unique-character-in-a-string](https://github.com/Chia-Rou-Huang/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0434-number-of-segments-in-a-string](https://github.com/Chia-Rou-Huang/leetcode-solutions/tree/master/0434-number-of-segments-in-a-string) |
 | [1108-defanging-an-ip-address](https://github.com/Chia-Rou-Huang/leetcode-solutions/tree/master/1108-defanging-an-ip-address) |
 ## Stack
 |  |
