@@ -26,6 +26,7 @@ Collection of LeetCode questions. Solved in Python.
 | [0169-majority-element](https://github.com/Chia-Rou-Huang/leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Chia-Rou-Huang/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Chia-Rou-Huang/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/Chia-Rou-Huang/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Chia-Rou-Huang/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 ## Simulation
 |  |
@@ -52,6 +53,7 @@ Collection of LeetCode questions. Solved in Python.
 | [0067-add-binary](https://github.com/Chia-Rou-Huang/leetcode-solutions/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Chia-Rou-Huang/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Chia-Rou-Huang/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/Chia-Rou-Huang/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Chia-Rou-Huang/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0434-number-of-segments-in-a-string](https://github.com/Chia-Rou-Huang/leetcode-solutions/tree/master/0434-number-of-segments-in-a-string) |
 | [0520-detect-capital](https://github.com/Chia-Rou-Huang/leetcode-solutions/tree/master/0520-detect-capital) |
@@ -88,6 +90,7 @@ Collection of LeetCode questions. Solved in Python.
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Chia-Rou-Huang/leetcode-solutions/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/Chia-Rou-Huang/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Chia-Rou-Huang/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 ## Bit Manipulation
 |  |
