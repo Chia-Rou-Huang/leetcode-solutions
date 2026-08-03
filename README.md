@@ -28,6 +28,7 @@ Collection of LeetCode questions. Solved in Python.
 | [0242-valid-anagram](https://github.com/Chia-Rou-Huang/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Chia-Rou-Huang/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Chia-Rou-Huang/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0771-jewels-and-stones](https://github.com/Chia-Rou-Huang/leetcode-solutions/tree/master/0771-jewels-and-stones) |
 ## Simulation
 |  |
 | ------- |
@@ -58,6 +59,7 @@ Collection of LeetCode questions. Solved in Python.
 | [0434-number-of-segments-in-a-string](https://github.com/Chia-Rou-Huang/leetcode-solutions/tree/master/0434-number-of-segments-in-a-string) |
 | [0520-detect-capital](https://github.com/Chia-Rou-Huang/leetcode-solutions/tree/master/0520-detect-capital) |
 | [0709-to-lower-case](https://github.com/Chia-Rou-Huang/leetcode-solutions/tree/master/0709-to-lower-case) |
+| [0771-jewels-and-stones](https://github.com/Chia-Rou-Huang/leetcode-solutions/tree/master/0771-jewels-and-stones) |
 | [1108-defanging-an-ip-address](https://github.com/Chia-Rou-Huang/leetcode-solutions/tree/master/1108-defanging-an-ip-address) |
 ## Stack
 |  |
