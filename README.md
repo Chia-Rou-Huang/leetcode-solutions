@@ -16,6 +16,7 @@ Collection of LeetCode questions. Solved in Python.
 | [0136-single-number](https://github.com/Chia-Rou-Huang/leetcode-solutions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Chia-Rou-Huang/leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Chia-Rou-Huang/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0819-most-common-word](https://github.com/Chia-Rou-Huang/leetcode-solutions/tree/master/0819-most-common-word) |
 | [1920-build-array-from-permutation](https://github.com/Chia-Rou-Huang/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Chia-Rou-Huang/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 ## Hash Table
@@ -30,6 +31,7 @@ Collection of LeetCode questions. Solved in Python.
 | [0383-ransom-note](https://github.com/Chia-Rou-Huang/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Chia-Rou-Huang/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0771-jewels-and-stones](https://github.com/Chia-Rou-Huang/leetcode-solutions/tree/master/0771-jewels-and-stones) |
+| [0819-most-common-word](https://github.com/Chia-Rou-Huang/leetcode-solutions/tree/master/0819-most-common-word) |
 ## Simulation
 |  |
 | ------- |
@@ -62,6 +64,7 @@ Collection of LeetCode questions. Solved in Python.
 | [0520-detect-capital](https://github.com/Chia-Rou-Huang/leetcode-solutions/tree/master/0520-detect-capital) |
 | [0709-to-lower-case](https://github.com/Chia-Rou-Huang/leetcode-solutions/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/Chia-Rou-Huang/leetcode-solutions/tree/master/0771-jewels-and-stones) |
+| [0819-most-common-word](https://github.com/Chia-Rou-Huang/leetcode-solutions/tree/master/0819-most-common-word) |
 | [1108-defanging-an-ip-address](https://github.com/Chia-Rou-Huang/leetcode-solutions/tree/master/1108-defanging-an-ip-address) |
 ## Stack
 |  |
@@ -96,6 +99,7 @@ Collection of LeetCode questions. Solved in Python.
 | [0169-majority-element](https://github.com/Chia-Rou-Huang/leetcode-solutions/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/Chia-Rou-Huang/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Chia-Rou-Huang/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0819-most-common-word](https://github.com/Chia-Rou-Huang/leetcode-solutions/tree/master/0819-most-common-word) |
 ## Bit Manipulation
 |  |
 | ------- |
